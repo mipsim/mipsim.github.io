@@ -1,11 +1,10 @@
 body {
     font-family: 'Oswald';
     font-size: 22px;
-    color: #1b3056;
+    color: #193551;
     width: 50%;
     margin: 0 auto;
-    background-color: #fffdef;
-    padding: 10px;
+    background-color: #fff8db;
 }
 
 #content {

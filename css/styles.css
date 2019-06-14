@@ -1,11 +1,10 @@
 body {
-    font-family: 'Open Sans', sans-serif;
-    font-size: 16px;
-    color: #1b3056;
+    font-family: 'Oswald';
+    font-size: 224px;
+    color: #193551;
     width: 50%;
     margin: 0 auto;
-    background-color: #fffdef;
-    padding: 10px;
+    background-color: #fff8db;
 }
 
 #content {

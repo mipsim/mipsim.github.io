@@ -31,10 +31,11 @@ p {
     margin-bottom: 1em;
     margin-left: 0;
     margin-right: 0;
+    color: #000;
 }
 
 footer {
 	font-style: italic;
 	font-size: 90%;
-    color: #000;
+    color: #1c4587;
 }

@@ -43,3 +43,24 @@ footer {
 	font-size: 20px;
     color: #1c4587;
 }
+
+a:link {
+  color: #186a7d;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: #324385;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: #469cb0;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:active {
+  color: #7083cc;
+  background-color: transparent;
+  text-decoration: none;
+}

@@ -14,11 +14,10 @@ body {
 h1 {
     font-family: 'Oswald';
     font-style:  bold;
-    font-size:   45px;
+    font-size:   42px;
     font-weight: 600;
     text-align:  center
     color:       #0c343d;
-	
 }
 
 h2 {
@@ -27,7 +26,6 @@ h2 {
     font-size:   30px;
     text-align:  center
     color:       #1c4587;
-    
 }
 
 p {

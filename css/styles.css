@@ -11,6 +11,11 @@ body {
     margin:  0 auto;
 }
 
+img {
+    width:  50%;
+    height: 50%;
+}
+
 h1 {
     font-family: 'Oswald';
     font-style:  bold;
